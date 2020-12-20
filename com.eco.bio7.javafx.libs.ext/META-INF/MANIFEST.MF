@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Ext
+Bundle-SymbolicName: com.eco.bio7.javafx.libs.ext
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.eco.bio7.javafx.libs.ext.Activator
+Bundle-Vendor: ECO
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-14
+Automatic-Module-Name: com.eco.bio7.javafx.libs.ext
+Bundle-ActivationPolicy: lazy
